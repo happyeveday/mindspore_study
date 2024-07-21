@@ -3,6 +3,7 @@
 ### 架构
 ![1721453862712](https://github.com/user-attachments/assets/e4ce216c-b74d-400b-a5f6-960d9d83cab2) 
 
+来源为MindSpore官网 
 由下至上：硬件层->硬件计算加速平台(例如CANN、CUDA、CPU)->编译层MindSpore架构->各个API接口->各方面实际应用 
 ### 接口学习
 ①vision.Rescale() 
